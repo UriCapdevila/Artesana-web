@@ -19,12 +19,6 @@ export default function Header() {
           >
             Productos
           </Link>
-          <Link
-            href="/admin/description-generator"
-            className="text-foreground/60 transition-colors hover:text-foreground/80"
-          >
-            AI Generator
-          </Link>
         </nav>
         <div className="flex items-center justify-end">
           <Button asChild>
