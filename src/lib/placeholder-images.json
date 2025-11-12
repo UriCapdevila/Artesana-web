@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A beautifully crafted open notebook on a rustic wooden table.",
+      "imageUrl": "https://images.unsplash.com/photo-1571061614252-b045689850f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxub3RlYm9vayUyMHJ1c3RpY3xlbnwwfHx8fDE3NjI5NTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebook rustic"
+    },
+    {
+      "id": "product-1",
+      "description": "Hand-bound leather journal with intricate stitching.",
+      "imageUrl": "https://images.unsplash.com/photo-1583341655648-78bdf4ed6d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwam91cm5hbHxlbnwwfHx8fDE3NjI4NDI5NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather journal"
+    },
+    {
+      "id": "product-2",
+      "description": "A set of three small notebooks with botanical print covers.",
+      "imageUrl": "https://images.unsplash.com/photo-1760035288745-28882f64d1b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxub3RlYm9va3MlMjBib3RhbmljYWx8ZW58MHx8fHwxNzYyOTU0Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebooks botanical"
+    },
+    {
+      "id": "product-3",
+      "description": "A large sketchbook with a textured paper cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1729565833871-1dd048527140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2tldGNoYm9vayUyMHBhcGVyfGVufDB8fHx8MTc2Mjk1NDc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sketchbook paper"
+    },
+    {
+      "id": "product-4",
+      "description": "Personalized planner with a terracotta-colored cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1621348016212-535c972093db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwbGFubmVyJTIwbWluaW1hbHxlbnwwfHx8fDE3NjI5NTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "planner minimal"
+    },
+    {
+      "id": "instagram-1",
+      "description": "Close-up of hands stitching the spine of a book.",
+      "imageUrl": "https://images.unsplash.com/photo-1549116917-bccf55924737?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYW5kcyUyMGNyYWZ0aW5nfGVufDB8fHx8MTc2Mjg4MDMyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hands crafting"
+    },
+    {
+      "id": "instagram-2",
+      "description": "A flat lay of bookbinding tools on a workbench.",
+      "imageUrl": "https://images.unsplash.com/photo-1577467014381-aa7c13dbf331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0b29scyUyMGZsYXRsYXl8ZW58MHx8fHwxNzYyOTU0Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tools flatlay"
+    },
+    {
+      "id": "instagram-3",
+      "description": "A stack of freshly made journals.",
+      "imageUrl": "https://images.unsplash.com/photo-1650632783909-e08f4e01eca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxqb3VybmFscyUyMHN0YWNrfGVufDB8fHx8MTc2Mjk1NDc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "journals stack"
+    },
+    {
+      "id": "instagram-4",
+      "description": "The artisan smiling at her workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1591380816222-28cec94b49c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHdvcmtzaG9wfGVufDB8fHx8MTc2Mjk1NDc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman workshop"
+    },
+    {
+      "id": "instagram-5",
+      "description": "A beautiful shot of a finished product in natural light.",
+      "imageUrl": "https://images.unsplash.com/photo-1601642964568-1917224f4e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bm90ZWJvb2slMjBzdW5saWdodHxlbnwwfHx8fDE3NjI5NTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebook sunlight"
+    },
+    {
+      "id": "instagram-6",
+      "description": "A customer holding and writing in their new journal.",
+      "imageUrl": "https://images.unsplash.com/photo-1571916234808-adf437ac1644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3cml0aW5nJTIwam91cm5hbHxlbnwwfHx8fDE3NjI5NTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing journal"
+    }
+  ]
 }
