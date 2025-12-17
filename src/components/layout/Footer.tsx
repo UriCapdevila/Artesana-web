@@ -11,9 +11,9 @@ export default function Footer() {
             <Image
               src="/logo.png"
               alt="Artesana Logo"
-              width={24}
-              height={24}
-              className="h-6 w-6"
+              width={40}
+              height={40}
+              className="h-10 w-10"
             />
             <span className="font-headline text-xl font-bold text-foreground">
               Artesana
