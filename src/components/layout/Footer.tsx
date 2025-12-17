@@ -1,6 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Instagram, Facebook, Twitter } from "lucide-react";
-import LeafIcon from "@/components/icons/LeafIcon";
 
 export default function Footer() {
   return (
@@ -8,7 +8,13 @@ export default function Footer() {
       <div className="container mx-auto max-w-7xl px-4 py-8">
         <div className="flex flex-col items-center justify-between gap-6 md:flex-row">
           <Link href="/" className="flex items-center gap-2">
-            <LeafIcon className="h-6 w-6 text-primary" />
+            <Image
+              src="/logo.png"
+              alt="Artesana Logo"
+              width={24}
+              height={24}
+              className="h-6 w-6"
+            />
             <span className="font-headline text-xl font-bold text-foreground">
               Artesana
             </span>
